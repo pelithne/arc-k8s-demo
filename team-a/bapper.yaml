@@ -4,4 +4,4 @@ data:
    glossary.json: 
       { "name":"John" }
 metadata:
-  name: json-test-configmap4
+  name: json-test-configmap5
