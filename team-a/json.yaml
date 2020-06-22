@@ -25,4 +25,4 @@ data:
     }
 }
 metadata:
-  name: json-test-configmap
+  name: json-test-configmap2
