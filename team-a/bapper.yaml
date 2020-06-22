@@ -1,6 +1,7 @@
 kind: ConfigMap
 apiVersion: v1
 data: 
-   glossary.json: kaka
+   glossary.json: 
+      bapper
 metadata:
   name: json-test-configmap4
