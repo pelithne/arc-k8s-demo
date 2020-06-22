@@ -1,0 +1,7 @@
+kind: ConfigMap
+apiVersion: v1
+data: 
+   glossary.json: 
+      {"number":"1"}
+metadata:
+  name: json-test-configmap7
