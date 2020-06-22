@@ -2,6 +2,6 @@ kind: ConfigMap
 apiVersion: v1
 data: 
    glossary.json: 
-      { "name":"John" }
+      menvafan
 metadata:
   name: json-test-configmap5
