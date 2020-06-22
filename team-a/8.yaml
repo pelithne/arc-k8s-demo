@@ -1,0 +1,7 @@
+kind: ConfigMap
+apiVersion: v1
+data: 
+   glossary.json: 
+      {masparantesfunkarinte}
+metadata:
+  name: json-test-configmap8
