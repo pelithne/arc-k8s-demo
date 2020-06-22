@@ -3,4 +3,4 @@ apiVersion: v1
 data: 
    glossary.json: { "name":"John" }
 metadata:
-  name: json-test-configmap2
+  name: json-test-configmap3
