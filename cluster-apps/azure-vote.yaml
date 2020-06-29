@@ -65,8 +65,7 @@ spec:
         env:
         - name: REDIS
           value: "azure-vote-back"
-        securityContext:
-          privileged: true
+
 ---
 apiVersion: v1
 kind: Service
